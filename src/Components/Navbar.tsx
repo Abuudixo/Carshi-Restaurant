@@ -28,7 +28,6 @@ const Navbar = () => {
     { name: 'About', href: '#about' },
     { name: 'Menu', href: '#menu' },
     { name: 'Gallery', href: '#gallery' },
-    { name: 'Contact', href: '#contact-section' },
   ];
 
   const handleLinkClick = () => {
