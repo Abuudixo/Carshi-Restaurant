@@ -107,11 +107,9 @@ const Footer = () => {
           <div className="space-y-6">
             <h4 className="text-white font-bold uppercase tracking-widest text-sm">Quick Links</h4>
             <ul className="space-y-3 text-sm italic font-light">
-              <li><a href="#about" className="hover:text-amber-500 transition-colors">Our Philosophy</a></li>
               <li><a href="#menu" className="hover:text-amber-500 transition-colors">Season Menu</a></li>
               <li><a href="#gallery" className="hover:text-amber-500 transition-colors">Photo Gallery</a></li>
               <li><a href="#contact-section" className="hover:text-amber-500 transition-colors">Contact Us</a></li>
-              <li><a href="#" className="hover:text-amber-500 transition-colors">Gift Vouchers</a></li>
             </ul>
           </div>
 

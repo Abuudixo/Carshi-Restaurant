@@ -10,7 +10,6 @@ export const MENU_ITEMS = [
     id: '1',
     name: 'Truffle Arancini',
     description: 'Crispy risotto balls with black truffle and mozzarella center.',
-    price: '$18',
     category: MenuCategory.APPETIZERS,
     image: 'https://images.unsplash.com/photo-1541529086526-db283c563270?q=80&w=800&auto=format&fit=crop'
   },
@@ -18,7 +17,6 @@ export const MENU_ITEMS = [
     id: '2',
     name: 'Beef Carpaccio',
     description: 'Thinly sliced wagyu beef, capers, arugula, and parmesan shavings.',
-    price: '$24',
     category: MenuCategory.APPETIZERS,
     image: 'https://images.unsplash.com/photo-1513137330480-880c5bbd0042?q=80&w=800&auto=format&fit=crop'
   },
@@ -26,7 +24,6 @@ export const MENU_ITEMS = [
     id: '3',
     name: 'Glazed Chilean Sea Bass',
     description: 'Miso-glazed sea bass served with baby bok choy and ginger broth.',
-    price: '$42',
     category: MenuCategory.MAINS,
     image: 'https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=800&auto=format&fit=crop'
   },
@@ -34,7 +31,6 @@ export const MENU_ITEMS = [
     id: '4',
     name: 'Braised Short Ribs',
     description: '12-hour slow-cooked ribs with creamy polenta and red wine reduction.',
-    price: '$48',
     category: MenuCategory.MAINS,
     image: 'https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800&auto=format&fit=crop'
   },
@@ -42,7 +38,6 @@ export const MENU_ITEMS = [
     id: '5',
     name: 'Saffron Risotto',
     description: 'Italian arborio rice infused with premium saffron and gold leaf.',
-    price: '$36',
     category: MenuCategory.MAINS,
     image: 'https://images.unsplash.com/photo-1476124369491-e7addf5db371?q=80&w=800&auto=format&fit=crop'
   },
@@ -50,7 +45,6 @@ export const MENU_ITEMS = [
     id: '6',
     name: 'Deconstructed Tiramisu',
     description: 'Coffee-soaked sponge, mascarpone foam, and cocoa dust.',
-    price: '$16',
     category: MenuCategory.DESSERTS,
     image: 'https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?q=80&w=800&auto=format&fit=crop'
   },
@@ -58,7 +52,6 @@ export const MENU_ITEMS = [
     id: '7',
     name: 'Lavender Panna Cotta',
     description: 'Silky cream infused with lavender, served with honeycomb.',
-    price: '$14',
     category: MenuCategory.DESSERTS,
     image: 'https://images.unsplash.com/photo-1488477181946-6428a0291777?q=80&w=800&auto=format&fit=crop'
   }
